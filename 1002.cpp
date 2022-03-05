@@ -1,3 +1,4 @@
+//卡时间常数故意难为人的一道题。异常恶心。改了很多次才不tle。
 #include<iostream>
 #include<map>
 #include<string>
